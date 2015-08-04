@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<products>
+  <product>
+    <id>1</id>
+    <sku>SKU-1</sku>
+    <ean>3241120010273</ean>
+    <name>PRODUCT 1</name>
+    <stock>12</stock>
+    <availability>1</availability>
+  </product>
+  <product>
+    <id>2</id>
+    <sku>SKU-2</sku>
+    <ean>3241120010280</ean>
+    <name>PRODUCT 2</name>
+    <stock>25</stock>
+    <availability>1</availability>
+  </product>
+  <product>
+    <id>3</id>
+    <sku>SKU-3</sku>
+    <name>PRODUCT 3</name>
+    <stock>24</stock>
+    <availability>1</availability>
+  </product>
+  <product>
+    <id>4</id>
+    <sku>SKU-4</sku>
+    <ean>3241120010303</ean>
+    <name>PRODUCT 4</name>
+    <stock></stock>
+    <availability>1</availability>
+  </product>
+  <product>
+    <id>5</id>
+    <sku>SKU-5</sku>
+    <ean>3241120010310</ean>
+    <name>PRODUCT 5</name>
+    <stock>15</stock>
+    <availability>1</availability>
+  </product>
+  <product>
+    <id>6 </id>
+    <sku>SKU-6</sku>
+    <ean>324112O10327</ean>
+    <name>PRODUCT 6</name>
+    <stock>9</stock>
+    <availability>0</availability>
+  </product>
+  <product>
+    <id>7</id>
+    <sku>SKU-7</sku>
+    <ean>3241120010334</ean>
+    <name>PRODUCT 7</name>
+    <stock>3</stock>
+    <availability>0</availability>
+  </product>
+</products>
