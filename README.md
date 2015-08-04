@@ -30,4 +30,5 @@ How to use :
 Notice : If you want to parse a xml file, you are require upload your xml file in application.
 		 It's possible to upload multiple xml files. 
 		 The cron parsed all xml file upload in xml folder.
+		 The file flux.xml is a demo xml file.
 		 I use the framework cakephp 2.6.
