@@ -7,19 +7,20 @@ How to use :
 
 			    git clone https://github.com/samyyounsi/parserXML.git
                        
-                    2 - chmod directory permission for tmp folder:
-                        chmod -R 777 parserXML
+            2 - chmod directory permission for tmp folder:
+                
+                chmod -R 777 parserXML
 
 			3 - Create a MySQL Database
 
-			   mysql -u root -p
-			   CREATE DATABASE IF NOT EXISTS parsexml;
+			    mysql -u root -p
+			    CREATE DATABASE IF NOT EXISTS parsexml;
 
 			4 - Edit the file app/Config/database.php
 
 			5 - Create a mysql tables and column
 
-			    app/Console/cake schema create  
+			     app/Console/cake schema create  
 
 			6 - App XMLParser is ready, go to http://localhost/parserXML
 
