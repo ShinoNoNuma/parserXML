@@ -7,8 +7,8 @@ How to use :
 
 			    git clone https://username@bitbucket.org/shinosama/younsi_s-backend-test.git
                        
-                        2 - chmod directory permission for tmp folder:
-                            chmod -R 777 parserXML
+                    2 - chmod directory permission for tmp folder:
+                        chmod -R 777 parserXML
 
 			3 - Create a MySQL Database
 
