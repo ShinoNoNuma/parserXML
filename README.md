@@ -24,7 +24,7 @@ How to use :
 
 			6 - App XMLParser is ready, go to http://localhost/parserXML
 
-			7 - If you want to launch the cron in a terminal :
+			7 - If you want launch the cron in a terminal :
 
 			     php ./app/webroot/cron.php /cron/parse_all_xml
 
