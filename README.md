@@ -3,13 +3,13 @@ App XMLParser
 
 How to use :
 
-	    	1 - Clone a git repository :
+	    		1 - Clone a git repository :
 
-	        	git clone https://github.com/samyyounsi/parserXML.git
+	        		git clone https://github.com/samyyounsi/parserXML.git
                        
-           	 2 - chmod directory permission for tmp folder:
+           	 	2 - chmod directory permission for tmp folder:
                 
-               	 	chmod -R 777 parserXML
+               	 		chmod -R 777 parserXML
 
 			3 - Create a MySQL Database
 
