@@ -3,9 +3,9 @@ App XMLParser
 
 How to use :
 
-			1 - Clone a git repository :
+	    1 - Clone a git repository :
 
-			    git clone https://github.com/samyyounsi/parserXML.git
+	        git clone https://github.com/samyyounsi/parserXML.git
                        
             2 - chmod directory permission for tmp folder:
                 
