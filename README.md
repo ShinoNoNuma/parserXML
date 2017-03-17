@@ -9,7 +9,7 @@ How to use :
                        
            	 	2 - chmod directory permission for tmp folder:
                 
-               	 		chmod -R 777 parserXML
+               	 	        chmod -R 777 parserXML
 
 			3 - Create a MySQL Database
 
